@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "telephone": "0378123784",
+    "permissions": 1
+  },
+  {
+    "id": 2,
+    "name": "Sasuke",
+    "telephone": "0949234875",
+    "permissions": 2
+  },
+  {
+    "id": 3,
+    "name": "Itachi",
+    "telephone": "030912903",
+    "permissions": 3
+  },
+  {
+    "id": 4,
+    "name": "Boruto",
+    "telephone": "031293840",
+    "permissions": 1
+  }
+]
